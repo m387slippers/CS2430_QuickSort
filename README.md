@@ -1,3 +1,6 @@
+ShakerSort:
+    Copied the ShakerSort code down from Max's Github, and just added a class level 'count' variable to keep track of the number of comparisons made for each array to be sorted.
+
 QuickSort:
     I took my general approach to quicksort from Geeks4Geeks, and modified it slightly to count the number of "compares" taken each time an array was sorted. 
 
